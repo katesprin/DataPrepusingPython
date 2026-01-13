@@ -31,7 +31,7 @@ The notebook demonstrates a clear, reproducible workflow commonly used in data s
 ## Tools and Technologies
 
 * Jupyter Notebook
-* Pyton
+* Python
 * pandas
 * numpy
 * matplotlib
