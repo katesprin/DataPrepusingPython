@@ -30,10 +30,12 @@ The notebook demonstrates a clear, reproducible workflow commonly used in data s
 
 ## Tools and Technologies
 
-* Python
 * Jupyter Notebook
-* pandas, numpy
-* matplotlib / seaborn
+* Pyton
+* pandas
+* numpy
+* matplotlib
+* seaborn
 
 ## Notes
 
