@@ -25,7 +25,7 @@ The notebook demonstrates a clear, reproducible workflow commonly used in data s
 
 * **GitHub preview**: Open the notebook directly in this repository
 * **NBViewer **: Paste the notebook URL: https://github.com/katesprin/Projects-Python/blob/f7b0587a54a08b5c188cfcf2d1ea5947c44d2029/STA6714-Final_Project-DataPrep.ipynb
-*  into [https://nbviewer.org](https://nbviewer.org) for best rendering
+   into [https://nbviewer.org](https://nbviewer.org) for best rendering
 * **HTML report** : Download and open the rendered HTML file in a browser
 
 ## Tools and Technologies
